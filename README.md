@@ -106,7 +106,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/java-conversor-dia-semana.git
+git clone https://github.com/MatheusLopes11/java-conversor-dia-semana.git
 ```
 
 Acesse a pasta do projeto:
